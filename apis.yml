@@ -1,0 +1,111 @@
+aid: ag2
+name: AG2
+description: >-
+  AG2 (formerly AutoGen) is an open-source multi-agent framework and AgentOS
+  hosted by the AG2AI organization. It provides Python building blocks for
+  ConversableAgent, GroupChat, GroupChatManager, RetrieveUserProxyAgent,
+  function/tool use, code execution, and human-in-the-loop patterns. The
+  ecosystem includes the core ag2 / autogen library, the AG2 Studio visual
+  workflow builder, and the build-with-ag2 samples.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ag2/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+tags:
+  - AI Agents
+  - Multi-Agent
+  - AgentOS
+  - AutoGen
+  - Python
+  - Open Source
+  - LLM
+  - GroupChat
+  - Tool Use
+  - Human-in-the-loop
+apis:
+  - aid: ag2:python-framework
+    name: AG2 Python Framework
+    description: >-
+      Core open-source Python library for building agentic AI applications.
+      Provides ConversableAgent, AssistantAgent, UserProxyAgent, GroupChat,
+      GroupChatManager, tool/function registration, code execution sandboxes,
+      and conversation patterns. Installable from PyPI as ag2 or its autogen
+      alias.
+    humanURL: https://docs.ag2.ai/latest/
+    baseURL: https://pypi.org/project/ag2/
+    tags:
+      - Python
+      - Framework
+      - Agents
+      - GroupChat
+      - Tools
+    properties:
+      - type: Documentation
+        url: https://docs.ag2.ai/latest/
+      - type: SDK
+        url: https://pypi.org/project/ag2/
+      - type: SDK
+        url: https://pypi.org/project/autogen/
+      - type: Repository
+        url: https://github.com/ag2ai/ag2
+  - aid: ag2:studio
+    name: AG2 Studio
+    description: >-
+      Visual interface for building, configuring, and running AG2 agents and
+      multi-agent workflows. Distributed as the ag2studio Python package and
+      open source on GitHub.
+    humanURL: https://github.com/ag2ai/ag2studio
+    baseURL: https://pypi.org/project/ag2studio/
+    tags:
+      - Studio
+      - Visual Builder
+      - Workflows
+      - UI
+    properties:
+      - type: Documentation
+        url: https://github.com/ag2ai/ag2studio
+      - type: SDK
+        url: https://pypi.org/project/ag2studio/
+      - type: Repository
+        url: https://github.com/ag2ai/ag2studio
+  - aid: ag2:build-with-ag2
+    name: Build with AG2 Samples
+    description: >-
+      Official collection of sample applications, notebooks, and reference
+      integrations for AG2, including a packaged AutoGen Studio sample app.
+    humanURL: https://github.com/ag2ai/build-with-ag2
+    baseURL: https://github.com/ag2ai/build-with-ag2
+    tags:
+      - Samples
+      - Notebooks
+      - Reference Apps
+    properties:
+      - type: Repository
+        url: https://github.com/ag2ai/build-with-ag2
+common:
+  - type: Website
+    url: https://ag2.ai
+  - type: Portal
+    url: https://docs.ag2.ai
+  - type: Documentation
+    url: https://docs.ag2.ai/latest/
+  - type: GitHub
+    url: https://github.com/ag2ai
+  - type: Repository
+    url: https://github.com/ag2ai/ag2
+  - type: Blog
+    url: https://docs.ag2.ai/latest/docs/blog/
+  - type: Examples
+    url: https://docs.ag2.ai/latest/docs/use-cases/notebooks/Notebooks/
+  - type: Community
+    url: https://discord.gg/sNGSwQME3x
+  - type: TermsOfService
+    url: https://ag2.ai/terms
+  - type: PrivacyPolicy
+    url: https://ag2.ai/privacy
+maintainers:
+  - FN: Kin Lane
+    email: kinlane@gmail.com
