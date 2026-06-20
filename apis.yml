@@ -8,7 +8,7 @@ description: >-
   ecosystem includes the core ag2 / autogen library, the AG2 Studio visual
   workflow builder, and the build-with-ag2 samples.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ag2/refs/heads/main/apis.yml
 created: '2026-05-23'
