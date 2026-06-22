@@ -4,18 +4,11 @@
     {
       "source": "https://docs.ag2.ai/latest/docs/blog/",
       "feed_url": "https://docs.ag2.ai/latest/docs/blog/",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://github.com/ag2ai/ag2",
-      "feed_url": "https://github.com/ag2ai/ag2",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "title": "AG2 Blog",
+      "saved": 1,
+      "method": "html-scrape"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 1,
+  "fetched": "2026-06-21T17:00:00Z"
 }
