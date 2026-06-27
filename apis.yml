@@ -45,9 +45,9 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.ag2.ai/latest/
-      - type: SDK
+      - type: SDKs
         url: https://pypi.org/project/ag2/
-      - type: SDK
+      - type: SDKs
         url: https://pypi.org/project/autogen/
       - type: Repository
         url: https://github.com/ag2ai/ag2
@@ -67,7 +67,7 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/ag2ai/ag2studio
-      - type: SDK
+      - type: SDKs
         url: https://pypi.org/project/ag2studio/
       - type: Repository
         url: https://github.com/ag2ai/ag2studio

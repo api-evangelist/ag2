@@ -3,12 +3,12 @@
   "feeds": [
     {
       "source": "https://docs.ag2.ai/latest/docs/blog/",
-      "feed_url": "https://docs.ag2.ai/latest/docs/blog/",
-      "title": "AG2 Blog",
-      "saved": 1,
-      "method": "html-scrape"
+      "feed_url": "",
+      "saved": 0,
+      "method": "agent-scrape"
     }
   ],
   "post_count": 1,
-  "fetched": "2026-06-21T17:00:00Z"
+  "fetched": "2026-06-27T12:21:34Z",
+  "agent_pulled": "2026-06-27"
 }
