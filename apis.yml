@@ -86,6 +86,8 @@ apis:
       - type: Repository
         url: https://github.com/ag2ai/build-with-ag2
 common:
+  - type: DomainSecurity
+    url: security/ag2-domain-security.yml
   - type: Website
     url: https://ag2.ai
   - type: Portal
