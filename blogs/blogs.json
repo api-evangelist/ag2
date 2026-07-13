@@ -2,13 +2,14 @@
   "repo": "ag2",
   "feeds": [
     {
-      "source": "https://docs.ag2.ai/latest/docs/blog/",
-      "feed_url": "",
+      "source": "https://github.com/ag2ai/ag2",
+      "feed_url": "https://github.com/ag2ai/ag2",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-06-27T12:21:34Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 2,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
