@@ -25,7 +25,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/ag2/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - AI Agents
   - Multi-Agent
