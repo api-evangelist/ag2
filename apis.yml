@@ -32,6 +32,17 @@ tags:
   - AgentOS
   - AutoGen
   - Python
+  - Open-Source
+  - LLM
+  - Group Chat
+  - Tool Use
+  - Human-in-the-Loop
+tags_raw:
+  - AI Agents
+  - Multi-Agent
+  - AgentOS
+  - AutoGen
+  - Python
   - Open Source
   - LLM
   - GroupChat
@@ -49,6 +60,12 @@ apis:
     humanURL: https://docs.ag2.ai/latest/
     baseURL: https://pypi.org/project/ag2/
     tags:
+      - Python
+      - Framework
+      - Agents
+      - Group Chat
+      - Tools
+    tags_raw:
       - Python
       - Framework
       - Agents
