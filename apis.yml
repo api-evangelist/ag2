@@ -47,9 +47,9 @@ tags:
   - Python
   - Open-Source
   - LLM
-  - GroupChat
+  - Group Chat
   - Tool Use
-  - Human-in-the-loop
+  - Human-in-the-Loop
 tags_raw:
   - AI Agents
   - Multi-Agent
@@ -76,7 +76,7 @@ apis:
       - Python
       - Framework
       - Agents
-      - GroupChat
+      - Group Chat
       - Tools
     tags_raw:
       - Python
