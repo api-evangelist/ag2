@@ -39,6 +39,10 @@ url: >-
 created: '2026-05-23'
 modified: '2026-05-23'
 specificationVersion: '0.23'
+x-docs-platform: mkdocs
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-09-17
+x-docs-hosting: github-pages
 tags:
   - AI Agents
   - Multi-Agent
