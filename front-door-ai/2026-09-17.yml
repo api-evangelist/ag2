@@ -1,0 +1,30 @@
+# Front Door AI Index — ag2 — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: ag2
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: ag2.ai
+  final_host: www.ag2.ai
+  ownership: own
+  owner: ag2
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 11
+  host_score: 11
+  density: 35.6
+  words: 309
+  tiers:
+    agentic: 2
+    core: 7
+    model: 2
+  ambiguous: 20
+  top_terms:
+    agent: 17
+    AI: 7
+    intelligence: 3
+    OpenAI: 2
+    AI agent: 1
+    prompts: 1
