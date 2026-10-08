@@ -133,6 +133,12 @@ apis:
       - type: Repository
         url: https://github.com/ag2ai/build-with-ag2
 common:
+  - type: Plans
+    url: plans/ag2-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ag2-rate-limits.yml
+  - type: FinOps
+    url: finops/ag2-finops.yml
   - type: IssueTracker
     url: https://github.com/ag2ai/ag2/issues
   - type: Releases
